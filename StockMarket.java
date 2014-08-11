@@ -1,4 +1,4 @@
-package com.example.helloworld;
+package com.geoffrey.helloworld;
 
 public class StockMarket {
 
